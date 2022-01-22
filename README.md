@@ -1,16 +1,5 @@
 # bmi_meter
 
-This app will work for measuring one's weight according to height
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2](https://user-images.githubusercontent.com/90089792/150648804-d88a89a6-4fc5-4ec5-9400-c350d653a81e.png)
+![Screenshot_3](https://user-images.githubusercontent.com/90089792/150648809-82691936-6811-4384-9330-6def11368d1e.png)
+![Screenshot_4](https://user-images.githubusercontent.com/90089792/150648812-bae9b6e6-4d15-4194-af59-ea08d875bc79.png)
